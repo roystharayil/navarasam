@@ -1,0 +1,13 @@
+{
+    "name": "roydon/navarasam",
+    "description": "Simple programming helper!!",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "roystharayil",
+            "email": "roystharayil@gmail.com"
+        }
+    ],
+    "require": {}
+}
